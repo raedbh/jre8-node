@@ -1,1 +1,1 @@
-# jdk8-node
+# jre8-node
